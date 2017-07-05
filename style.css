@@ -65,7 +65,6 @@ img.logo {
 
 .main {
   background-color: #000;
-  display: flex;
 }
 
 .intro {
@@ -100,7 +99,6 @@ a:focus, a:hover {
 
 .gallery div {
   margin: 10px;
-  /*padding: 10px;*/
 }
 
 .gallery h5 {
