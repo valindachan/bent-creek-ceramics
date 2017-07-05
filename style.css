@@ -245,7 +245,7 @@ tr:nth-child(odd) {
 .signup {
   background-image: url('images/background-2.jpg');
   background-repeat: no-repeat;
-  height: 80vh;
+  min-height: 90vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -285,7 +285,7 @@ input {
   justify-content: center;
 }
 
-#submit {
+#signupButton {
   border: 1px solid #968772;
   background: #968772;
   color: #fff;
